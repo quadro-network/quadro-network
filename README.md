@@ -2,7 +2,11 @@
 <tbody>
         <tr valign="top">
         <td  align="center">
-<a href="https://quadro.network/" align="center" target="_website"><img
- height="120px" width="300px"  src="https://assets.quadro.network/img/banner.png"></a>
+<a href="https://quadro.network/" align="center" target="_website">
+
+<img width="1536" height="528" alt="banner" src="https://github.com/user-attachments/assets/9e4ec739-6331-4529-8f4c-9271ffebb0ad" />
+
+</a>
 </td> </tr>
  </table>
+
