@@ -6,10 +6,6 @@
 
 <img width="600" height="200" alt="banner" src="https://github.com/user-attachments/assets/9e4ec739-6331-4529-8f4c-9271ffebb0ad" />
 
-</a>
-</td> </tr>
- </table>
-
 <!-- ========================================================= -->
 <!-- INTRO -->
 <!-- ========================================================= -->
@@ -34,6 +30,10 @@ Since 2021 · Support L2–L3
 ~500 VMs · observability · fewer repeats
   </pre>
 </div>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=quadro-network&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
@@ -67,6 +67,23 @@ I keep platforms up, make recurring failures visible, and help neighboring teams
 ---
 
 <!-- ========================================================= -->
+<!-- GITHUB STATS -->
+<!-- ========================================================= -->
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quadro-network&theme=github_dark" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quadro-network&theme=github_dark" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quadro-network&theme=github_dark" alt="Most Used Languages" />
+</p>
+
+
+---
+
+<!-- ========================================================= -->
 <!-- OPERATIONS -->
 <!-- ========================================================= -->
 ### Operations
@@ -76,7 +93,7 @@ I keep platforms up, make recurring failures visible, and help neighboring teams
 - Recurring issues cut down with new metrics, written post-mortems, and fuller Confluence docs.
 - Routine work in neighboring teams moved into automation so the same steps are not done by hand.
 
-Focus of the job: scaling and support of **PostgreSQL / Postgres Pro** and **Redis**, plus the path in front of them — **Kubernetes**, **Docker**, **HAProxy**, **Nginx** — and the view of the system through **Prometheus**, **Grafana**, **Zabbix**, **Graylog**, and **OpenTelemetry**.
+Focus of the job: scaling and support of **PostgreSQL / Postgres Pro** and **Redis**, plus **Kubernetes**, **Docker**, **HAProxy**, and **Nginx**, and the view of the system through **Prometheus**, **Grafana**, **Zabbix**, **Graylog**, and **OpenTelemetry**.
 
 ---
 
@@ -87,7 +104,7 @@ Focus of the job: scaling and support of **PostgreSQL / Postgres Pro** and **Red
 
 ### Autotest parser
 
-Support and QA tool: a parser driven by patterns, with a pipeline and pod checks in Kubernetes.
+Support and QA tool: a parser driven by patterns, with a pipeline and pod checks in Kubernetes(with Python, Docker).
 
 <p>
   <a href="https://gitlab.com/marsel155-group/parse-project" target="_blank" rel="noopener noreferrer">
@@ -146,11 +163,20 @@ Dashboards and configuration for PostgreSQL and blockchain node monitoring: Graf
 ---
 
 <!-- ========================================================= -->
-<!-- LEARNING -->
+<!-- STREAK -->
 <!-- ========================================================= -->
-### Always learning
+### Commit Streak
 
-I read technical documentation in English (B1) and use current tools, including AI, to get to a fix faster.
+<p align="center">
+  <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://streak-stats.demolab.com?user=quadro-network&theme=dark&hide_border=true&background=0d1117&currStreakLabel=58a6ff&ring=58a6ff&fire=58a6ff"
+      alt="GitHub Streak for quadro-network"
+      loading="lazy"
+      decoding="async"
+    />
+  </a>
+</p>
 
 ---
 
@@ -160,6 +186,9 @@ I read technical documentation in English (B1) and use current tools, including 
 ### Connect
 
 <p align="left">
+  <a href="https://github.com/quadro-network" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://t.me/mytgaddress" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
@@ -168,13 +197,6 @@ I read technical documentation in English (B1) and use current tools, including 
   </a>
 </p>
 
+creategreatweb@gmail.com
 
 ---
-
-<p align="left">
-  <i>If it is not in the metric, it will be in the next incident.</i>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="Made with Markdown" />
-</p>
