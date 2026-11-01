@@ -1,14 +1,18 @@
+
+
+
 <table width="400px" align="center">
-<tbody>
-        <tr valign="top">
+<tbody>     
+<tr valign="top">
         <td  align="center">
 <a href="https://quadro.network/" align="center" target="_website">
 
-<img width="600" height="200" alt="banner" src="https://github.com/user-attachments/assets/9e4ec739-6331-4529-8f4c-9271ffebb0ad" />
-
+<img width="600" height="200" alt="banner" src="https://github.com/user-attachments/assets/9e4ec739-6331-4529-8f4c-9271ffebb0ad" /> </a>
+        
 <!-- ========================================================= -->
 <!-- INTRO -->
 <!-- ========================================================= -->
+
 <div align="left">
   <pre style="
     background-color:#000000;
@@ -21,16 +25,17 @@
     line-height:1.6;
     text-shadow:0 0 6px rgba(0,255,159,0.5);
   ">
-[sre@linux ~]$ cat ~/about.txt
-───────────────────────────────
-DevOps / SRE / SysAdmin
-Linux · HA · Automation
-Since 2021 · Support L2–L3
-───────────────────────────────
-~500 VMs · observability · fewer repeats
+● career.service - DevOps / SRE / SysAdmin
+      Loaded: loaded (/lib/systemd/system/sre.service; enabled)
+      Active: active (running) since 2021
+      Tasks: Linux, HA, automation (L2–L3)
+      CGroup: /fleet.slice/career.service
+                ├─~500 VMs
+                ├─observability
+                ├─reliability
+                └─security
   </pre>
 </div>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=quadro-network&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
@@ -170,7 +175,7 @@ Dashboards and configuration for PostgreSQL and blockchain node monitoring: Graf
 <p align="center">
   <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://streak-stats.demolab.com?user=quadro-network&theme=dark&hide_border=true&background=0d1117&currStreakLabel=58a6ff&ring=58a6ff&fire=58a6ff"
+     src="https://streak-stats.demolab.com?user=quadro-network&theme=dark&hide_border=true&background=0d1117&currStreakLabel=58a6ff&ring=58a6ff&fire=58a6ff&hide_current_streak=true&hide_longest_streak=true"
       alt="GitHub Streak for quadro-network"
       loading="lazy"
       decoding="async"
@@ -185,7 +190,7 @@ Dashboards and configuration for PostgreSQL and blockchain node monitoring: Graf
 <!-- ========================================================= -->
 ### Connect
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/quadro-network" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
