@@ -107,13 +107,24 @@ Focus of the job: scaling and support of **PostgreSQL / Postgres Pro** and **Red
 <!-- ========================================================= -->
 ## Projects
 
+### App for creating tests from books
+
+An app with AI integration.
+Accelerates the absorption of information from a book. Helps with retention.
+
+<p>
+  <a href="https://github.com/quadro-network/Explorer_Cosmos" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub — Explorer_Cosmos" />
+  </a>
+</p>
+
 ### Autotest parser
 
 Support and QA tool: a parser driven by patterns, with a pipeline and pod checks in Kubernetes(with Python, Docker).
 
 <p>
-  <a href="https://gitlab.com/marsel155-group/parse-project" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab — parse-project" />
+  <a href="https://github.com/quadro-network/TestWritter_DevOps" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub — TestWritter_DevOps" />
   </a>
 </p>
 
