@@ -113,8 +113,8 @@ An app with AI integration.
 Accelerates the absorption of information from a book. Helps with retention.
 
 <p>
-  <a href="https://github.com/quadro-network/TestWritter_DevOps" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub — TestWritter_DevOps" />
+  <a href="https://github.com/quadro-network/TestWritter" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub — TestWritter" />
   </a>
 </p>
 
